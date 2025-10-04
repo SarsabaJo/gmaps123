@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">MyCalculator</string>
-
-    <!-- Add these new strings -->
-    <string name="answer_format">Answer = %s</string>
-    <string name="division_by_zero">Cannot divide by zero</string>
-    <string name="enter_number">Enter a number</string>
-</resources>
